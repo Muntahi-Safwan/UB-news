@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Julia Jacobo",
+      "title": "Hurricane Ida live updates: Ida may be 1 mph short of being Category 5 hurricane - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/US/live-updates/?id=79696173",
+      "urlToImage": "https://s.abcnews.com/images/US/hurricane-ida-satellite-rt-jef-210829_1630243184859_hpMain_16x9_1600.jpg",
+      "publishedAt": "2021-08-29T14:06:00Z",
+      "content": "Winds up to 150 mph are now moving onto Louisianas coast.\r\nHurricane Ida is now 50 miles south-southeast of Grand Isle, Louisiana, moving northwest at 15 mph.\r\nAn extreme wind warning has been issued… [+756 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ronn Blitzer",
+      "title": "Biden to receive bodies of 13 service members killed in Kabul airport attack - Fox News",
+      "description": "President Biden traveled to Dover Air Force Base Sunday morning to receive the bodies of 13 American service members who were killed in an attack at the Kabul airport in Afghanistan.",
+      "url": "https://www.foxnews.com/politics/biden-transfer-13-service-members-killed-kabul-airport-attack",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Joe-Jill-Biden-Dover-Air-Force-Base-Fallen-Service-Members.jpg",
+      "publishedAt": "2021-08-29T13:17:38Z",
+      "content": "President Biden traveled to Dover Air Force Base Sunday morning to receive the bodies of 13 American service members who were killed in an attack at the Kabul airport in Afghanistan.\r\nThe president a… [+1833 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Stereogum" },
+      "author": null,
+      "title": "Kanye West Releases New Album 'Donda' — Really: Stream - Stereogum",
+      "description": "Kanye West has released his new album, Donda, his first full-length since 2019’s Jesus Is King. It came out the weekend after his third listening party, which took place at Chicago’s Soldier Field. The album features guest appearances from Jay-Z, the Weeknd, …",
+      "url": "https://www.stereogum.com/2156517/kanye-west-new-album-donda-stream/music/",
+      "urlToImage": "https://static.stereogum.com/uploads/2021/08/kanye-west-donda-stream-1630242031.jpeg",
+      "publishedAt": "2021-08-29T13:03:00Z",
+      "content": "Kanye West has released his new album, Donda, his first full-length since 2019’s Jesus Is King. It came out the weekend after his third listening party, which took place at Chicago’s Soldier Field. T… [+2059 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "7 am Hurricane Ida Update - FOX10 News",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cXQ1bk1PckxlS1nSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-29T12:16:43Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Hurricane Ida: Where the levees are good and where they are weaker - WWLTV",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TERUbnNLRkpWQ2PSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-29T12:16:22Z",
+      "content": null
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Kelly Pendergrast",
+      "title": "Silicon Valley, Facebook giving up on reality, building terrible alternative - Business Insider",
+      "description": "Recent massive investments into creating immersive digital worlds are a symptom of Silicon Valley leaders cashing out on the physical world.",
+      "url": "https://www.businessinsider.com/silicon-valley-giving-up-on-reality-metaverse-facebook-horizon-workroom-2021-8",
+      "urlToImage": "https://i.insider.com/6127bcd412b9cc001962f854?width=1200&format=jpeg",
+      "publishedAt": "2021-08-29T12:04:13Z",
+      "content": "When Facebook revealed the first public glimpse of Horizon Workrooms last Thursday, it didn't look like the future I want.\r\nWorkrooms, currently in open beta, is Facebook's first attempt at a VR prod… [+7338 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": "Associated Press",
+      "title": "Slain Marine who cradled baby at Kabul airport loved her job - POLITICO",
+      "description": "Here are the stories of the American troops killed in last week’s suicide bombing.",
+      "url": "https://www.politico.com/news/2021/08/29/nicole-gee-kabul-suicide-bombing-507144",
+      "urlToImage": "https://static.politico.com/34/5e/984f11a046ecb6283318aa8d3666/webp.net-resizeimage%20(11).jpg",
+      "publishedAt": "2021-08-29T11:18:48Z",
+      "content": "NICOLE GEE, 23\r\nA week before she was killed, Sgt. Nicole Gee cradled a baby in her arms at the Kabul airport. She posted the photo on Instagram and wrote, I love my job.\r\nGee, 23, of Sacramento, Cal… [+12749 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": "Lisa Kashinsky",
+      "title": "'Embarrassment of riches': Boston's diverse mayoral field creates tough choice for city - POLITICO",
+      "description": "The deep well of experienced, non-white candidates is widely cheered within the city’s Democratic apparatus. But the same milestone is proving challenging to navigate.",
+      "url": "https://www.politico.com/news/2021/08/29/boston-diverse-mayoral-field-507004",
+      "urlToImage": "https://static.politico.com/05/81/edb0a0e143a4a90c2583e757b7f6/08272021-wu-ap-773.jpg",
+      "publishedAt": "2021-08-29T10:44:01Z",
+      "content": "JP Progressives struggle to choose a candidate is indicative of the larger ideological and community divides at play in the Boston mayors race as politicians and voters try to whittle down a historic… [+11659 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Brie Stimson",
+      "title": "California mom saves son, 5, from mountain lion attack using her 'bare hands' - Fox News",
+      "description": "A Los Angeles-area woman fought off a 65-pound mountain lion that was attacking her 5-year-old son on Thursday using her bare hands, according to the California Department of Fish and Wildlife.",
+      "url": "https://www.foxnews.com/great-outdoors/california-mom-mountain-lion-attack-bare-hands",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21240849181711.jpg",
+      "publishedAt": "2021-08-29T10:16:20Z",
+      "content": "A Los Angeles-area woman fought off a 65-pound mountain lion that was attacking her 5-year-old son on Thursday using her bare hands, according to the California Department of Fish and Wildlife. \r\nThe… [+1831 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Alex Seitz-Wald",
+      "title": "How Larry Elder upended the California recall - NBC News",
+      "description": "Larry Elder, longtime radio host, first-time candidate, and right-wing provocateur has upended the California gubernatorial recall.",
+      "url": "https://www.nbcnews.com/politics/elections/how-larry-elder-upended-california-recall-n1277815",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_34/3501950/210827-larry-elder-al-1013.jpg",
+      "publishedAt": "2021-08-29T10:00:20Z",
+      "content": "WASHINGTON He calls himself the Sage from South Central. Critics call him the Black face of white supremacy. And Californians may soon call him governor.\r\nLarry Elder longtime radio host, first-time … [+8896 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Cristina Marcos and Scott Wong",
+      "title": "Republicans hit Biden over Afghanistan, with eye on midterms | TheHill - The Hill",
+      "description": "Republicans in Congress want President Biden out of office after ...",
+      "url": "https://thehill.com/homenews/house/569812-republicans-hit-biden-over-afghanistan-with-eye-on-midterms",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/bidenjoe_082621getty_republicans.jpg",
+      "publishedAt": "2021-08-29T10:00:09Z",
+      "content": "Republicans in Congress want President BidenJoe BidenUS tells Americans to leave Kabul airport 'immediately,' citing 'credible' threatBritain, France to propose Kabul safe zone for people trying to f… [+10537 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Associated Press",
+      "title": "SpaceX launches supply mission to space station - Fox Business",
+      "description": "",
+      "url": "https://www.foxbusiness.com/markets/spacex-launches-supply-mission-to-space-station",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/Space-x-Supply-Launch2.jpg?ve=1&tl=1",
+      "publishedAt": "2021-08-29T09:40:52Z",
+      "content": "A SpaceX shipment of ants, avocados and a human-sized robotic arm rocketed toward the International Space Station on Sunday.\r\nThe delivery — due to arrive Monday — is the company’s 23rd for NASA in j… [+1982 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Duarte Mendonca, CNN",
+      "title": "Bolsonaro says he will either be arrested, killed or win Brazil's next election - CNN",
+      "description": "Brazilian President Jair Bolsonaro has said he sees only three possibilities for his future: death, prison or winning the 2022 presidential elections.",
+      "url": "https://www.cnn.com/2021/08/29/americas/bolsonaro-brazil-elections-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210720180405-jair-bolsonaro-0505-file-super-tease.jpg",
+      "publishedAt": "2021-08-29T09:28:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Adam Rasgon",
+      "title": "Palestinians Finally Have Vaccines. But Will People Take Them? - The New York Times",
+      "description": "For months, the Palestinian authorities struggled to get doses. Now they have the shots, but disinformation and conspiracy theories have led to widespread hesitancy.",
+      "url": "https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/08/29/world/29palestinians-vaccine6/29palestinians-vaccine6-facebookJumbo.jpg",
+      "publishedAt": "2021-08-29T09:15:13Z",
+      "content": "Disinformation and conspiracy theories, along with more well-founded concerns about waning vaccine efficacy, have contributed to widespread hesitancy about getting inoculated, according to Abdulsalam… [+1006 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Lidia Kelly",
+      "title": "Australia's COVID-19 cases hit new record as 'reopening' debate heats up - Reuters",
+      "description": "Australia logged a record 1,323 local COVID-19 cases on Sunday as debate rages on whether the country should start living with the virus in the community, after initially being successful with suppressing coronavirus.",
+      "url": "https://www.reuters.com/world/asia-pacific/australias-victoria-reports-92-local-covid-19-cases-2021-08-28/",
+      "urlToImage": "https://www.reuters.com/resizer/f7nczUwiUkctGzapvX0JiAkdIag=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5W5SVMQUMFMDVNYOKU6PM55YLY.jpg",
+      "publishedAt": "2021-08-29T08:03:00Z",
+      "content": "MELBOURNE, Aug 29 (Reuters) - Australia logged a record 1,323 local COVID-19 cases on Sunday as debate rages on whether the country should start living with the virus in the community, after initiall… [+3388 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Kevin Spacey Filming New Movie, First Look on Set - TMZ",
+      "description": "First look at Kevin Spacey filming on a movie set in California since his sexual assault scandal.",
+      "url": "https://www.tmz.com/2021/08/29/kevin-spacey-filming-new-movie-first-look-on-set-sexual-assault-scandal/",
+      "urlToImage": "https://imagez.tmz.com/image/7e/16by9/2021/08/26/7e31c41dbdd940159c6a457a4cd48fda_xl.jpg",
+      "publishedAt": "2021-08-29T08:00:00Z",
+      "content": "Kevin Spacey is back on a film set on American soil for the first time since several sexual assault allegations against him came to light.\r\nThe actor -- who was essentially exiled from mainstream Hol… [+935 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aya Elamroussi, CNN",
+      "title": "First, surges in Covid-19 infections led to shortages of hospital beds and staff. Now it's oxygen - CNN",
+      "description": "Parts of the South are running out of oxygen supply as Covid-19 cases and hospitalizations continue soaring, primarily driven by the swaths of people who remain unvaccinated and a dangerous coronavirus variant that has been tirelessly infecting millions of Am…",
+      "url": "https://www.cnn.com/2021/08/29/health/us-coronavirus-sunday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210819003120-01-us-coronavirus-thursday-0819-florida-super-tease.jpg",
+      "publishedAt": "2021-08-29T07:47:00Z",
+      "content": "(CNN)Parts of the South are running out of oxygen supply as Covid-19 cases and hospitalizations continue soaring, primarily driven by the swaths of people who remain unvaccinated and a dangerous coro… [+6290 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "NFL preseason Week 3 takeaways: Tyler Huntley accounts for five TDs for Ravens, Tom Brady sharp in tuneup - CBS Sports",
+      "description": "Here's the rundown of each of the Week 3 preseason games",
+      "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-3-takeaways-tyler-huntley-accounts-for-five-tds-for-ravens-tom-brady-sharp-in-tuneup/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/01/17/17018e4c-ba86-4099-b706-37104e5e741d/thumbnail/1200x675/2329f873b8008f3936e3af2a94c96146/mahomes.png",
+      "publishedAt": "2021-08-29T05:07:00Z",
+      "content": "Week 3 of the NFL preseason is in full swing as four games went down on Friday night -- along with six on Saturday and five more Sunday -- to make up Week 3 of the 2021 NFL preseason, so there are pl… [+3791 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Kari Paul",
+      "title": "‘People wanted to believe’: reporter who exposed Theranos on Elizabeth Holmes’ trial - The Guardian",
+      "description": "As blood testing startup founder’s fraud trial looms, John Carreyrou says hero worship is still a problem in Silicon Valley",
+      "url": "https://amp.theguardian.com/technology/2021/aug/28/elizabeth-holmes-theranos-trial-john-carreyrou",
+      "urlToImage": null,
+      "publishedAt": "2021-08-29T05:00:00Z",
+      "content": "TheranosAs blood testing startup founders fraud trial looms, John Carreyrou says hero worship is still a problem in Silicon Valley\r\nSun 29 Aug 2021 01.00 EDT\r\nThe unraveling of Theranos began with a … [+10270 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KHON2" },
+      "author": "Nikki Schenfeld",
+      "title": "COVID vaccine passport announcement expected Monday, Honolulu business leaders weigh in - KHON2",
+      "description": "Honolulu bars, restaurants and gyms could soon be required to ask customers for proof of vaccination. Mayor Rick Blangiardi is expected to announce more details on Monday.",
+      "url": "https://www.khon2.com/coronavirus/covid-vaccine-passport-announcement-expected-monday-honolulu-business-leaders-weigh-in/",
+      "urlToImage": "https://www.khon2.com/wp-content/uploads/sites/8/2021/08/6-VACCINE-PASSPORT-BIZ-IMPACTS-ST-PKG.transfer_frame_3181.jpg?w=1280",
+      "publishedAt": "2021-08-29T04:55:25Z",
+      "content": "HONOLULU (KHON2) — Honolulu bars, restaurants and gyms could soon be required to ask customers for proof of vaccination. \r\nMayor Rick Blangiardi is expected to announce more details on Monday, Aug. 3… [+3179 chars]"
+    }
+  ]
+}
